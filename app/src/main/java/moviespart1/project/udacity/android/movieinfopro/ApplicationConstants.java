@@ -6,7 +6,7 @@ package moviespart1.project.udacity.android.movieinfopro;
 public final class ApplicationConstants {
     public static final String SORT_KEY="sort_order";
     public static final String API_URL ="https://api.themoviedb.org/3/discover/movie";
-    public static final String API_KEY = "enter _ your _ api _ keyhere";
+    public static final String API_KEY = "enter _ your _ api _ key_here";
     public static final int NUM_PAGES_FETCH = 3;
     public static final String KEY_MOVIE = "Movie";
     private static int[] mIndex = new int[] {
